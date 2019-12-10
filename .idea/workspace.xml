@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="74278652-8f22-4b4a-b7d6-149965a862b8" name="Default Changelist" comment="Codecov added">
-      <change afterPath="$PROJECT_DIR$/.idea/cashbackService.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/itpark/CashbackService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/ru/itpark/CashbackServiceTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
+    <list default="true" id="74278652-8f22-4b4a-b7d6-149965a862b8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/itpark/CashbackService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ru/itpark/CashbackService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ru/itpark/CashbackServiceTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/ru/itpark/CashbackServiceTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -145,7 +140,7 @@
       <workItem from="1575526616717" duration="83000" />
       <workItem from="1575628479728" duration="450000" />
       <workItem from="1575667293428" duration="922000" />
-      <workItem from="1575982874058" duration="436000" />
+      <workItem from="1575982874058" duration="1330000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1571949000155</created>
@@ -252,7 +247,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575628931148</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Codecov added">
+      <created>1575983509126</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1575983509126</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -292,30 +294,30 @@
     <option name="LAST_COMMIT_MESSAGE" value="Codecov added" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="305" y="0" key="CommitChangelistDialog2" timestamp="1575983117168">
+    <state x="305" y="0" key="CommitChangelistDialog2" timestamp="1575983503319">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="305" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1575983117168" />
+    <state x="305" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1575983503319" />
     <state x="463" y="121" key="FileChooserDialogImpl" timestamp="1575668185949">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="121" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1575668185949" />
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1575668242333">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1575983823845">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1575668242333" />
-    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1575668242332">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1575983823845" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1575983823844">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1575668242332" />
-    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1575668242332">
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1575983823844" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1575983823844">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1575668242332" />
-    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1575668242333">
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1575983823844" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1575983823844">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1575668242333" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1575983823844" />
     <state x="129" y="55" key="MergeDialog" timestamp="1575983457313">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -328,10 +330,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="186" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1575628885724" />
-    <state x="275" y="99" key="Vcs.Push.Dialog.v2" timestamp="1575628670850">
+    <state x="275" y="99" key="Vcs.Push.Dialog.v2" timestamp="1575983519895">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="99" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1575628670850" />
+    <state x="275" y="99" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1575983519895" />
     <state x="458" y="79" key="git4idea.branch.GitSmartOperationDialog" timestamp="1575983176363">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
