@@ -1,6 +1,6 @@
 language: java
-jdk: oraclejdk1.8
-script: mvn-e verify
+jdk: oraclejdk11
+script: mvn -e verify
 after_success:
   - bash <(curl -s https://codecov.io/bash)
 notifications:

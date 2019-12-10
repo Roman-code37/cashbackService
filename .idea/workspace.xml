@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="74278652-8f22-4b4a-b7d6-149965a862b8" name="Default Changelist" comment="Codecov added">
+      <change afterPath="$PROJECT_DIR$/.idea/cashbackService.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ru/itpark/CashbackService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/ru/itpark/CashbackServiceTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="PARALLEL_COMPILATION" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="cashbackService" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="develop" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsbtTreeLayoutManager">
+    <layout place="tools.popupGrunt">
+      <scroll-view-position x="0" y="0" />
+    </layout>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="13" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1SfIuj5AMZ6vDE8ypAkJ73tqHoB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../07.webapp-master" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="ru.itpark" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="CashbackServiceTest.calculateCashback" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="cashbackService" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.itpark.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.itpark" />
+      <option name="MAIN_CLASS_NAME" value="ru.itpark.CashbackServiceTest" />
+      <option name="METHOD_NAME" value="calculateCashback" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CashbackServiceTest.calculateCashback" />
+        <item itemvalue="JUnit.CashbackServiceTest.calculateCashback" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="74278652-8f22-4b4a-b7d6-149965a862b8" name="Default Changelist" comment="" />
+      <created>1571948448246</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571948448246</updated>
+      <workItem from="1574970942017" duration="7513000" />
+      <workItem from="1575029496428" duration="20000" />
+      <workItem from="1575407332360" duration="5203000" />
+      <workItem from="1575526616717" duration="83000" />
+      <workItem from="1575628479728" duration="450000" />
+      <workItem from="1575667293428" duration="922000" />
+      <workItem from="1575982874058" duration="436000" />
+    </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <created>1571949000155</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1571949000155</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Initial commit">
+      <created>1571949642197</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1571949642197</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Travis CI config added">
+      <created>1571950332705</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1571950332705</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Travis CI badge added">
+      <created>1571950833950</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1571950833950</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Travis CI badge added">
+      <created>1571951779294</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1571951779294</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Travis CI badge added">
+      <created>1574973589919</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1574973589920</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Travis CI badge added">
+      <created>1574974286413</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1574974286413</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Travis CI badge added">
+      <created>1574975265404</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1574975265409</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Codecov">
+      <created>1574975468667</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1574975468667</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Codecov added">
+      <created>1574975919613</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1574975919613</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Codecov added">
+      <created>1574976500920</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1574976500920</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Codecov added">
+      <created>1575408541468</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1575408541468</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Codecov added">
+      <created>1575409281477</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1575409281477</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Codecov added">
+      <created>1575628650537</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1575628650538</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Codecov added">
+      <created>1575628931148</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1575628931148</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="BEK_SORT_TYPE" value="1" />
+              <option name="HIGHLIGHTERS">
+                <map>
+                  <entry key="MY_COMMITS" value="true" />
+                </map>
+              </option>
+              <option name="TEXT_FILTER_SETTINGS">
+                <TextFilterSettings>
+                  <option name="REGEX" value="true" />
+                  <option name="MATCH_CASE" value="true" />
+                </TextFilterSettings>
+              </option>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <MESSAGE value="Travis CI config added" />
+    <MESSAGE value="Travis CI badge added" />
+    <MESSAGE value="Codecov" />
+    <MESSAGE value="Codecov added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Codecov added" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="305" y="0" key="CommitChangelistDialog2" timestamp="1575983117168">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="305" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1575983117168" />
+    <state x="463" y="121" key="FileChooserDialogImpl" timestamp="1575668185949">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="121" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1575668185949" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1575668242333">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1575668242333" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1575668242332">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1575668242332" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1575668242332">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1575668242332" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1575668242333">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1575668242333" />
+    <state x="129" y="55" key="MergeDialog" timestamp="1575983457313">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="129" y="55" key="MergeDialog/0.0.1366.728@0.0.1366.728" timestamp="1575983457313" />
+    <state x="395" y="81" key="MultipleFileMergeDialog" timestamp="1575983461122">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="395" y="81" key="MultipleFileMergeDialog/0.0.1366.728@0.0.1366.728" timestamp="1575983461122" />
+    <state x="186" y="0" key="SettingsEditor" timestamp="1575628885724">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="186" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1575628885724" />
+    <state x="275" y="99" key="Vcs.Push.Dialog.v2" timestamp="1575628670850">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="99" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1575628670850" />
+    <state x="458" y="79" key="git4idea.branch.GitSmartOperationDialog" timestamp="1575983176363">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="458" y="79" key="git4idea.branch.GitSmartOperationDialog/0.0.1366.728@0.0.1366.728" timestamp="1575983176363" />
+    <state x="549" y="230" width="250" height="278" key="jetbrains.javascript.buildTools.run-task-popup" timestamp="1575408371196">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="549" y="230" width="250" height="278" key="jetbrains.javascript.buildTools.run-task-popup/0.0.1366.728@0.0.1366.728" timestamp="1575408371196" />
+  </component>
+</project>
