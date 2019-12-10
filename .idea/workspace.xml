@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="74278652-8f22-4b4a-b7d6-149965a862b8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ru/itpark/CashbackService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ru/itpark/CashbackService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/ru/itpark/CashbackServiceTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/ru/itpark/CashbackServiceTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -140,7 +137,7 @@
       <workItem from="1575526616717" duration="83000" />
       <workItem from="1575628479728" duration="450000" />
       <workItem from="1575667293428" duration="922000" />
-      <workItem from="1575982874058" duration="1330000" />
+      <workItem from="1575982874058" duration="1917000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1571949000155</created>
@@ -254,7 +251,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575983509126</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Travis ci badge added">
+      <created>1575984459271</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1575984459271</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -291,33 +295,34 @@
     <MESSAGE value="Travis CI badge added" />
     <MESSAGE value="Codecov" />
     <MESSAGE value="Codecov added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Codecov added" />
+    <MESSAGE value="Travis ci badge added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Travis ci badge added" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="305" y="0" key="CommitChangelistDialog2" timestamp="1575983503319">
+    <state x="305" y="0" key="CommitChangelistDialog2" timestamp="1575984453433">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="305" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1575983503319" />
+    <state x="305" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1575984453433" />
     <state x="463" y="121" key="FileChooserDialogImpl" timestamp="1575668185949">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="121" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1575668185949" />
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1575983823845">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1575984990804">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1575983823845" />
-    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1575983823844">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1575984990804" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1575984990803">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1575983823844" />
-    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1575983823844">
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1575984990803" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1575984990801">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1575983823844" />
-    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1575983823844">
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1575984990801" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1575984990803">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1575983823844" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1575984990803" />
     <state x="129" y="55" key="MergeDialog" timestamp="1575983457313">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -330,10 +335,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="186" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1575628885724" />
-    <state x="275" y="99" key="Vcs.Push.Dialog.v2" timestamp="1575983519895">
+    <state x="275" y="99" key="Vcs.Push.Dialog.v2" timestamp="1575984464976">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="99" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1575983519895" />
+    <state x="275" y="99" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1575984464976" />
     <state x="458" y="79" key="git4idea.branch.GitSmartOperationDialog" timestamp="1575983176363">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
